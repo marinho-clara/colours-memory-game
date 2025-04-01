@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.cell{
+    width: 60px;
+    height: 60px;
+    background-color: #778899;
+    color: transparent;
+}
+
+.container {
+    text-align: center;
+  }
+
+#display{
+    margin-bottom: 1%;
+}
+
+.botao.desabilitado {
+    pointer-events: none;
+}
+
+.gitlab-link i{
+    font-size: 4vh;
+}
